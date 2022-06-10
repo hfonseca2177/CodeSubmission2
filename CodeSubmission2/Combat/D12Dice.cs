@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp6
+namespace Combat
 {
     //D12 dice implementation
     internal class D12Dice : BaseDice

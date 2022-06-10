@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using Util;
 
-namespace ConsoleApp5
+namespace CodeSubmission2
 {
-    internal class Manager
+    internal class GameManager
     {
 
         private bool missionDone;

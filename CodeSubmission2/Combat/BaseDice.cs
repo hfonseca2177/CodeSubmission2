@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp6
+namespace Combat
 {
     /*
      * Base implementation for Dice rolls

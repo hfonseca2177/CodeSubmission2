@@ -1,5 +1,5 @@
 ﻿
-namespace ConsoleApp6
+namespace Combat
 {
     //D6 dice implementation
     internal class D6Dice : BaseDice

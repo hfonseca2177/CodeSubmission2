@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp6
+namespace Combat
 {
     //D20 dice implementation
     internal class D20Dice : BaseDice

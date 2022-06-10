@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ConsoleApp6
+﻿
+namespace Combat
 {
     //method that must be implemented by the dices specializations
     internal interface IDice

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp6
+namespace Combat
 {
     internal class D8Dice : BaseDice
     {
