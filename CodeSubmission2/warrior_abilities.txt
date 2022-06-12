@@ -1,0 +1,6 @@
+﻿Sting,Diagonal Sword Swing,4
+Bash,Bash enemy with a shield,6
+Ultragious Throw,Throws 2 axes towards the enemy,6
+Thunderclap,Smashs the terrain under the enemie's feet,8
+Berserker blow,Enraged sword vertical swing,12
+Shockwave,Shoves enemy against the wall with your shield,20

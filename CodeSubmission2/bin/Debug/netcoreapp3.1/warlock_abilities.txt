@@ -1,0 +1,6 @@
+﻿Fear,Causes target to flee in pain,4
+Agony,Inflicts shadow damage to the target,6
+Mortal Coil,horrifies the target and causes pain,6
+Shadowburn,Blasts target with shadowflame,8
+Chaos Bolt, Hurls a fire and shadow energy ball agaist the target,12
+Summon Demon,Summons a demon that attacks heavily the enemy,20

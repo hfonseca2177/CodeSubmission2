@@ -1,0 +1,6 @@
+﻿Sinister strike,Flaking attack with daggers,4
+Ambush, Ambushes enemy dealing extra damage,6
+Kidney Shot, Paiful hit that stuns the enemy,6
+Multilate, parallel hit with daggers over the chest,8
+Backstab, Stab the target and apply poison,12
+Blade Fury, Sequence of lethal strikes,20

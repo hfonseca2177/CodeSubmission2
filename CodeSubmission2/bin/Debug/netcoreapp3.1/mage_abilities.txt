@@ -1,0 +1,6 @@
+﻿Arcane missles,3 arcane missiles flows towards enemy,4
+Scorch,scorchs enemy with fire skin burn,6
+Blizzard,Ice projectiles come from sky,6
+Ice Cone,Frontal frost wave,8
+Acid orb, An acid orb flows surronding you and dealing damage to attackers,12
+Fireball,A hude fire ball falls over the enemy,20

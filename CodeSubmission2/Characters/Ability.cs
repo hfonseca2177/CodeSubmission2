@@ -1,9 +1,9 @@
 ﻿using Combat;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace CodeSubmission2.Characters
 {
+    //Class ability with damge Dice
     internal class Ability
     {
         protected string name;
@@ -20,6 +20,16 @@ namespace CodeSubmission2.Characters
         public IDice GetDamage()
         {
             return damage;
+        }
+
+        public string GetName()
+        {
+            return name;
+        }
+
+        public string GetDescription()
+        {
+            return description;
         }
     }
 }

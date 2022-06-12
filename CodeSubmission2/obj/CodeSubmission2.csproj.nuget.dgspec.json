@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\PRO\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj": {}
+    "C:\\VFS\\PROG\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj": {}
   },
   "projects": {
-    "H:\\PRO\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj": {
+    "C:\\VFS\\PROG\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\PRO\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj",
+        "projectUniqueName": "C:\\VFS\\PROG\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj",
         "projectName": "CodeSubmission2",
-        "projectPath": "H:\\PRO\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj",
-        "packagesPath": "C:\\Users\\gd67hugo\\.nuget\\packages\\",
-        "outputPath": "H:\\PRO\\CodeSubmission2\\CodeSubmission2\\obj\\",
+        "projectPath": "C:\\VFS\\PROG\\CodeSubmission2\\CodeSubmission2\\CodeSubmission2.csproj",
+        "packagesPath": "C:\\Users\\hugo_\\.nuget\\packages\\",
+        "outputPath": "C:\\VFS\\PROG\\CodeSubmission2\\CodeSubmission2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gd67hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hugo_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
